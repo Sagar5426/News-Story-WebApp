@@ -1,6 +1,6 @@
 # News-Story-WebApp
 
-<h3>A web app that fetches data from NewsApi.org website and display news in beautiful card format and we can search any news we want on it.</h3>
+<h3>A web app that fetches data from NewsApi.org website and display news in beautiful card template and we can search any news we want on it.</h3>
 <img width="700" alt="Screenshot 2024-05-09 at 1 22 04 PM" src="https://github.com/Sagar5426/News-Story-WebApp/assets/108585817/7ebcc58b-472e-4d89-8522-07b1062dc40c"><br><br><br>
 
 
