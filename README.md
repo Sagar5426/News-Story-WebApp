@@ -12,4 +12,4 @@
 <hr><br>
 
 <b>Language Used: </b> Html, CSS and JavaScript <br>
-<b>API: </b> <a href = "https://www.weatherapi.com"> Weather API </a>
+<b>API Used: </b> <a href = "https://newsapi.org"> News API </a>
